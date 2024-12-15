@@ -107,7 +107,7 @@ func main() {
 	// privatKey := "000000000000000000000000000000000000000000000002832ed74f2b5xxxxx"
 
 	wallet := "1Hoyt6UBzwL5vvUSTLMQC2mwvvE5PpeSC"
-	privatKey := "403b3d4xcxfx6x9xfx3xaxcx5x0x4xbxbx7x2x6x8x7x8xax4x0x8x3x3x3x7x3x"
+	privatKey := "403b3d4fcxfx6x9xfx3xaxcx5x0x4xbxbx7x2x6x8x7x8xax4x0x8x3x3x3x7x3x"
 
 	totalKeys := 0
 	startTime := time.Now()
